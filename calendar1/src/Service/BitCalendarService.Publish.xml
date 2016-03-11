@@ -1,0 +1,17 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\lenovo\Desktop\BitCalendar Alpha 1.7\">
+    <file relUrl="Web.config" publishTime="12/03/2013 13:17:36" />
+    <file relUrl="bin/BitCalendarService.vshost.exe.config" publishTime="12/03/2013 13:17:36" />
+    <file relUrl="bin/BitCalendarService.vshost.exe" publishTime="12/03/2013 13:48:39" />
+    <file relUrl="bin/BitCalendarService.vshost.exe.manifest" publishTime="03/18/2010 07:39:16" />
+    <file relUrl="bin/Microsoft.Samples.XmlRpc.dll" publishTime="12/05/2013 17:57:45" />
+    <file relUrl="BitCalendarDatabase.sdf" publishTime="12/05/2013 17:35:30" />
+    <file relUrl="bin/BitCalendarService.exe.config" publishTime="12/03/2013 13:17:36" />
+    <file relUrl="bin/BitCalendarServiceLibrary.vshost.exe.config" publishTime="12/01/2013 19:41:13" />
+    <file relUrl="bin/BitCalendarDatabase.sdf" publishTime="12/05/2013 17:35:30" />
+    <file relUrl="BitCalendarService.CalendarService.svc" publishTime="12/05/2013 19:00:00" />
+    <file relUrl="bin/BitCalendarService.pdb" publishTime="12/05/2013 19:00:00" />
+    <file relUrl="bin/Microsoft.Samples.XmlRpc.pdb" publishTime="12/05/2013 17:57:45" />
+    <file relUrl="bin/BitCalendarService.exe" publishTime="12/05/2013 19:00:00" />
+  </publishTarget>
+</publishData>
